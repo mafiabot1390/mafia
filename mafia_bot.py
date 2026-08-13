@@ -52,7 +52,7 @@ PROXY_URL: str = "socks5://127.0.0.1:10808"
 DB_FILE: str = "mafia_game.db"
 
 ROB_COOLDOWN: int = 195          # ۳ دقیقه و ۱۵ ثانیه
-CURRENCY: str = "سکه"
+CURRENCY: str = "پول"
 
 STEAL_MIN, STEAL_MAX = 9, 500
 MAX_LEVEL_INDEX = 14
