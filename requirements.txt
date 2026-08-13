@@ -1,0 +1,6 @@
+iohttp==3.14.1
+python-socks==2.8.2
+pydantic==2.13.4
+magic-filter==1.0.12
+certifi==2026.5.20
+aiofiles==25.1.0
